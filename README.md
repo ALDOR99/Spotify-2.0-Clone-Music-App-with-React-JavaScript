@@ -1,3 +1,5 @@
+# Deneme yazısıdır, yazan bay ali durna.
+
 # Project Lyrics
 
 Develop an elegant React.js Music Application.
